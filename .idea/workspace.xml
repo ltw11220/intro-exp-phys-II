@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="0db7f51c-f437-4dfe-aa13-366b3712f12b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/distributions/Dist_ltw244.py" beforeDir="false" afterPath="$PROJECT_DIR$/distributions/Dist_ltw244.py" afterDir="false" />
     </list>
+=======
+    <list default="true" id="f2571ed3-5e54-4940-9f9f-dbf1ccaf04a9" name="Default Changelist" comment="" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +17,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< Updated upstream
   <component name="ProjectId" id="1bEdESIS6HLIvGT2T5JnsxWHkmW" />
+=======
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bT6FByw2B0yNvw57yCGlIsZ5Ig" />
+>>>>>>> Stashed changes
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,6 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+<<<<<<< Updated upstream
     <property name="last_opened_file_path" value="$PROJECT_DIR$/distributions" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -57,21 +73,33 @@
         <item itemvalue="Python.Dist_ltw244" />
       </list>
     </recent_temporary>
+=======
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+>>>>>>> Stashed changes
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< Updated upstream
       <changelist id="0db7f51c-f437-4dfe-aa13-366b3712f12b" name="Default Changelist" comment="" />
       <created>1588201075335</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588201075335</updated>
+=======
+      <changelist id="f2571ed3-5e54-4940-9f9f-dbf1ccaf04a9" name="Default Changelist" comment="" />
+      <created>1588643629820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588643629820</updated>
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< Updated upstream
     <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1588270752026">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -96,5 +124,11 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1588270924846" />
+=======
+    <state x="399" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1588643634320">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1588643634320" />
+>>>>>>> Stashed changes
   </component>
 </project>
